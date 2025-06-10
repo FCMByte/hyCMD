@@ -6,4 +6,4 @@ you still benefit from using this plugin, since you get the ('<cmdname>') at the
 giving extra style to your server!
 
 ### LICENSE
-This project uses a **custom non-commercial license**. See [LICENSE](LICENSE) for details.
+This project uses a **custom non-commercial license**. See [LICENSE](LICENSE.txt) for details.
