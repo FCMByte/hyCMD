@@ -6,7 +6,7 @@ you still benefit from using this plugin, since you get the ('<cmdname>') at the
 giving extra style to your server!
 
 ### LICENSE
-This project uses a **custom non-commercial license**. See [LICENSE](LICENSE) for details.
+This project uses a **custom non-commercial license**. See [LICENSE](hyCMD/LICENSE) for details.
 
 ### MODIFY YOUR MESSAGE
 There isn't any inbuilt configuration in this plugin, so you only have the hyCMD.jar file in your plugins folder,
