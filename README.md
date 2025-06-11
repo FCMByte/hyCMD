@@ -10,5 +10,5 @@ This project uses a **custom non-commercial license**. See [LICENSE](hyCMD/LICEN
 
 ### MODIFY YOUR MESSAGE
 There isn't any inbuilt configuration in this plugin, so you only have the hyCMD.jar file in your plugins folder,
-but no extra folders with configurations. If you still want to edit your message, you have to do so in the source
+no extra folders with configurations. If you still want to edit your message, you have to do so in the source
 code.
