@@ -1,0 +1,5 @@
+name: hyCMD
+version: 1.0.0-LATEST
+main: fcm.fcmbyte.hyCMD.hyCommand
+api-version: 1.21
+author: FCM_Byte
